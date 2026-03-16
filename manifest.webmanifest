@@ -1,0 +1,22 @@
+{
+  "name": "Le Sanctuaire des 9 Nekos",
+  "short_name": "9 Nekos",
+  "start_url": "/?debug=true",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1a051d",
+  "theme_color": "#1a051d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
